@@ -9,7 +9,7 @@ Este projeto aplica conceitos fundamentais da linguagem Go, como servidores HTTP
   - Consumo da API de cotação (USD-BRL).
   - Timeout de **200ms** para a API de cotação.
   - Persistência dos dados no SQLite com timeout de **10ms**.
-  - Retorno do valor do "bid" (venda) para o cliente.
+  - Retorno do valor do "bid" (valor) para o cliente.
 
 - **Client.go:**
   - Requisição ao servidor local.
