@@ -14,7 +14,7 @@ Este projeto aplica conceitos fundamentais da linguagem Go, como servidores HTTP
 - **Client.go:**
   - Requisição ao servidor local.
   - Timeout de **300ms** para receber a resposta.
-  - Gravação da cotação no arquivo `cotacao.txt`.
+  - Gravação da cotação no arquivo `Quotation.tx`.
 
 ## Tecnologias Utilizadas
 
